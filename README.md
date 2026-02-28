@@ -29,6 +29,7 @@
 | Meta     |Facebook , Meta AI（不全）                                  |
 | AppleIntelligence     |果系AI                                 |
 | Binance     |Binance                                 |
+| Bybit     |Bybit                                 |
 
 ## HOW TO USE
 
