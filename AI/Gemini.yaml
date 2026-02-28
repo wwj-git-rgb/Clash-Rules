@@ -15,3 +15,4 @@ payload:
   - DOMAIN-KEYWORD,generativelanguage
   # - DOMAIN-SUFFIX,google.com
   # - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN,proactivebackend-pa.googleapis.com
